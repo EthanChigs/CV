@@ -1,0 +1,10 @@
+# IDE / workspace artifacts
+.aicoding-chat-workspace
+
+# Verification screenshots kept at repo root (not part of the site)
+/*.png
+
+# OS junk
+Thumbs.db
+desktop.ini
+.DS_Store
